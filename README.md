@@ -3,7 +3,7 @@
 A simple keylogger made in C++ than can log basic keystroks and save them to a file.
 
 ## How to Build
-```
+```bash
 g++ filename.cpp -o exename -luser32 -mwindows
 ```
 
